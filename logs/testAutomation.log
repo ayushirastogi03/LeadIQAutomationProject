@@ -1,0 +1,32 @@
+2018-12-30 09:36:03 INFO  TestSuite:47 - Details are validated
+2018-12-30 09:36:03 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:03 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[contains(text(),'Submit')]]
+2018-12-30 09:36:03 INFO  ExtensionPage:55 - Element :[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[contains(text(),'Submit')]] is clicked
+2018-12-30 09:36:08 INFO  ExtensionPage:29 - The Page title has been successfully validated :Extension Installed
+2018-12-30 09:36:08 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:08 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[contains(text(),'Continue')]]
+2018-12-30 09:36:11 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:11 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[contains(text(),'LeadIQ')]]
+2018-12-30 09:36:11 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:11 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //i[@class='el-select__caret el-input__icon el-icon-arrow-up']]
+2018-12-30 09:36:11 INFO  ExtensionPage:55 - Element :Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='el-select__caret el-input__icon el-icon-arrow-up']' is clicked
+2018-12-30 09:36:14 INFO  CampaignPage:63 - CampaignName is displayed with :ddcsfs
+2018-12-30 09:36:14 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:14 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[@class='iq-button get-started primary']]
+2018-12-30 09:36:14 INFO  ExtensionPage:55 - Element :[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[@class='iq-button get-started primary']] is clicked
+2018-12-30 09:36:32 INFO  ExtensionPage:34 - The Url has been successfully launched:https://www.linkedin.com/in/meisiauw/
+2018-12-30 09:36:32 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:33 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //h1[@class='pv-top-card-section__name inline t-24 t-black t-normal']]
+2018-12-30 09:36:38 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:38 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //h2[@class='iq name iq-bold']]
+2018-12-30 09:36:38 INFO  ExtensionPage:45 - Element :[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //h2[@class='iq name iq-bold']]contains text : Mei Siauw.
+2018-12-30 09:36:38 INFO  ExtensionPage:45 - Element :[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //h3[@class='iq company-name']]contains text : LeadIQ.
+2018-12-30 09:36:38 INFO  ExtensionPage:38 - -----Waiting for the element to be visible
+2018-12-30 09:36:38 INFO  ExtensionPage:40 - The following element is now visible[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[@class='iq-button action-button primary']]
+2018-12-30 09:36:38 INFO  ExtensionPage:55 - Element :[[ChromeDriver: chrome on MAC (665c8088a029b92e0ff75bf1cc5665c0)] -> xpath: //div[@class='iq-button action-button primary']] is clicked
+2018-12-30 09:36:38 INFO  TestListener:51 - I am in onTestFailure method VerifySignUpNewUser2 failed
+2018-12-30 09:36:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-30 09:36:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-30 09:36:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-30 09:36:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-30 09:36:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/riteshsaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

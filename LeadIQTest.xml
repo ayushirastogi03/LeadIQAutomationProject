@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LeadIQTest Suite">
+    <parameter name="browser" value="chrome"></parameter>
+
+    <listeners>
+        <listener class-name="Reports.TestListener"/>
+    </listeners>
+    <test name="LeadIQTest">
+        <classes>
+            <class name="Test.TestSuite">
+                <methods>
+                    <include name="VerifySignUpNewUser2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
